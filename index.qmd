@@ -4,6 +4,6 @@ format: html
 ---
 
 ## Section 1
-
+[Data visualization](notebooks/data-visualization.html)
 
 ## Section 2
